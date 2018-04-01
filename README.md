@@ -1,10 +1,13 @@
 # Simple FAQ Plugin for Shopware 5
 This Plugin add's a FAQ to a given Content page
 
+![Backend](http://res.cloudinary.com/dn13zivyk/image/upload/v1522591037/Screenshot_2018-04-01_15.54.58_vspyvu.jpg)
+![Frontend](http://res.cloudinary.com/dn13zivyk/image/upload/v1522591037/Screenshot_2018-04-01_15.55.45_hf58ta.jpg)
+
 ## Installation
 Enable the plugin in your Plugin Manager.
 Create a new content site and link it to the URL `shopware.php?sViewport=faq`
-
+``
 ### Commandline
 `cd` into the folder as described and clone the Repo.
 ```
