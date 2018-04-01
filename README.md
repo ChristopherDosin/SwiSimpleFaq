@@ -4,7 +4,7 @@ This Plugin add's a FAQ to a given Content page
 ### Backend
 ![Backend](http://res.cloudinary.com/dn13zivyk/image/upload/v1522591037/Screenshot_2018-04-01_15.54.58_vspyvu.jpg)
 
-### Backend
+### Frontend
 ![Frontend](http://res.cloudinary.com/dn13zivyk/image/upload/v1522591037/Screenshot_2018-04-01_15.55.45_hf58ta.jpg)
 
 ## Installation
