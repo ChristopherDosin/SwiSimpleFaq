@@ -15,13 +15,13 @@ Create a new content site and link it to the URL `shopware.php?sViewport=faq`
 `cd` into the folder as described and clone the Repo.
 ```
 cd /custom/plugins
-git clone git@github.com:kayyyy/SwiSimpleFaq.git
+git clone git@github.com:ChristopherDosin/SwiSimpleFaq.git
 ```
 
 Now you can enable the plugin in the plugin manager.
 
 ### FTP User
-* Get the latest [Release](https://github.com/kayyyy/SwiSimpleFaq/releases)
+* Get the latest [Release](https://github.com/ChristopherDosin/SwiSimpleFaq/releases)
 * Unzip the archiv
 * Change the name of the folder from **SwiSimpleFaq-1.X** to **SwiSimpleFaq** .
 * Upload the folder "SwiSimpleFaq" (which you renamed in the step before) to your ftp to `custom/plugins`
@@ -36,7 +36,7 @@ Update durch den Plugin Manager nicht. Meldet euch daher in unseren [Newsletter]
 ansonsten werdet Ihr über zukünftige Updates nicht informiert!
 
 ### FTP User Plugin Update
-Same as the [Installation Step](https://github.com/kayyyy/SwiSimpleFaq#ftp-user). Just make sure to override all new files.
+Same as the [Installation Step](https://github.com/ChristopherDosin/SwiSimpleFaq#ftp-user). Just make sure to override all new files.
 
 ## Changelog
 
