@@ -24,7 +24,7 @@ Now you can enable the plugin in the plugin manager.
 * Get the latest [Release](https://github.com/kayyyy/SwiSimpleFaq/releases)
 * Unzip the archiv
 * Change the name of the folder from **SwiSimpleFaq-1.X** to **SwiSimpleFaq** .
-* Upload the folder "HostiSocial" to your ftp to `custom/plugins`
+* Upload the folder "SwiSimpleFaq" (which you renamed in the step before) to your ftp to `custom/plugins`
 * Install and enable the Plugin in your Plugin Manager
 
 ## Plugin Update
